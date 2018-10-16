@@ -1,2 +1,2 @@
 #  Proyecto Veterinaria
-Programadores 3.0
+Programadores Equipo 25
